@@ -2,7 +2,7 @@
 ## **Ejercicio 1 "Hello Wordl"**
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-En%20Terminado...-green">
+   <img src="https://img.shields.io/badge/STATUS-%20Terminado-green">
 </p>
 
 ![imagen](https://i.pinimg.com/564x/99/e3/f6/99e3f65d1f010f01f523cdf1b9681866.jpg)
